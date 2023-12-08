@@ -1,38 +1,49 @@
+1. Planification du projet:
+    - Définir le but de l'application 
+    - Identifier les utilisateurs cibles et leurs besoins
+    - Déterminer les fonctionnalités clés (création de tâches(personnalisation), notifications, rappels)
+    - Décider des plateformes (Web, mobile, ordinateur de bureau)
 
-Planification et Conception
+2. Sélection des technologies :
+    - Langages et frameworks de programmation appropriés
+    - Base de données (SQL vs NoSQL)
+    - Outils pour le contrôle de version (Git) et la gestion de projet (Github)
 
-- Identifier les besoins spécifiques des utilisateurs et les fonctionnalités clés de l'application.
-- Créer des maquettes de l'interface utilisateur pour visualiser l'apparence et la convivialité de l'application.
-- Choisir les technologies appropriées (par exemple, frameworks, bases de données) pour le développement de l'application.
+3. Conception de l'interface utilisateur :
+    - Créer des maquettes de l'interface utilisateur pour visualiser l'apparence de l'application
+    - Montrer ces maquettes à des utilisateurs potentiels pour avoir un avis de l'interface
 
-Développement
+4. Conception de la base de données :
+    - Schéma de la base de données (tables, relation)
+    - Choisir une base de données (MySQL, MongoDB)
+    - Mettre en œuvre des mesures de sécurité pour la protection des données
 
-- Mettre en place des outils de développement collaboratif (Git, systèmes de suivi des problèmes, etc.) :
-   - Création de tâches.
-   - Lecture/affichage des tâches.
-   - Mise à jour des tâches.
-   - Suppression des tâches.
-- Par exemple, notifications, catégorisation des tâches, rappels.
+5. Développement:
+    - Mettre en place l'environnement de développement
+    - Développer le back-end (APIs, base de données)
+    - Développer le front-end 
 
-Tests et Assurance Qualité
+6. Assurance qualité et tests :
+    - Faire des tests
+    - Correction des bugs et problèmes identifiés lors des tests
+    - Optimiser les performances et l'expérience utilisateur
 
-- Assurer que chaque composant fonctionne correctement de manière isolée.
-- Vérifier que les composants fonctionnent correctement lorsqu'ils sont combinés.
-- Tests d'Utilisabilité** : S'assurer que l'application est facile à utiliser pour l'utilisateur final.
+7. Déploiement :
+    - Choisissez une plateforme d'hébergement ou un serveur
+    - Déployer l'application
 
-Déploiement
+8. Feedback
 
-- Mettre l'application à disposition sur les plateformes appropriées (Web, App Stores, etc.)
-- Documentation et Formation** : Fournir de la documentation et des ressources de formation pour les utilisateurs.
 
-Maintenance et Mises à Jour
+9. Résolution de problèmes et bugs :
+    - Établir un système de suivi des bogues (GitHub Issues)
+    - Définir les niveaux de gravité des bugs afin de prioriser les correctifs
+    - Développer un workflow pour corriger, tester et déployer des correctifs de bugs
 
-- Maintenance Continue** : Corriger les bugs et les problèmes techniques au fur et à mesure qu'ils se présentent.
-- Mises à Jour et Améliorations** : Ajouter de nouvelles fonctionnalités et améliorer l'application basé sur les retours des utilisateurs.
 
-Gestion de Projet
+10. Maintenance et mises à jour :
+    - Surveiller les performances des applications et les commentaires des utilisateurs
+    - Mettre en place un système de suivi et de résolution des bugs
 
-- Suivi Régulier** : Organiser des réunions d'équipe régulières pour discuter de l'avancement et résoudre les problèmes.
-- Utilisation d'Outils de Gestion de Projet** : Utiliser des outils comme Trello ou Jira pour suivre l'avancement des tâches.
-- Révisions de Code et Assurance Qualité** : Instaurer une culture de revue de code et d'assurance qualité tout au long du projet.
 
+ 
